@@ -1,7 +1,7 @@
 # Zero-Scaler
 
 ### To Observe HTTP Traffic
-![image](https://github.com/sumuduliyanage/Zero-Scaler/blob/main/images/entries.png)
+![image]()
 
 ### After Inserting To Database
-![image](https://github.com/sumuduliyanage/Zero-Scaler/blob/main/images/hubble_observe.png)
+![image](https://github.com/sumuduliyanage/Zero-Scaler/blob/main/images/entries.png)
