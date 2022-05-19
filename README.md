@@ -1,7 +1,7 @@
 # Zero-Scaler
 
 ### To Observe HTTP Traffic
-![image](https://github.com/sumuduliyanage/CO542---Weather-Forecasting-with-RNN/blob/main/images/forecast-reliability.jpg)
+![image](https://github.com/sumuduliyanage/Zero-Scaler/blob/main/images/entries.png)
 
 ### After Inserting To Database
-![image](https://github.com/sumuduliyanage/CO542---Weather-Forecasting-with-RNN/blob/main/images/forecast-reliability.jpg)
+![image](https://github.com/sumuduliyanage/Zero-Scaler/blob/main/images/hubble_observe.png)
